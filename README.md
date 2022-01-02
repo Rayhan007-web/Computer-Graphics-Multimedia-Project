@@ -19,7 +19,7 @@ Step 3: press k & hold it fan running in full speed
 
 Step 4: if I stop pressing k then back to normal Speed
 
-Step 5: if i press i then fan rotating slowly
+Step 5: if i press i & hold it then fan rotating slowly
 
 Step 6: press s to stop rotating the fan
 
