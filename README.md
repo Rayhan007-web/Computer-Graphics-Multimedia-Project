@@ -24,3 +24,18 @@ Step 5: if i press i then fan rotating slowly
 Step 6: press s to stop rotating the fan
 
 Step 7: Quit
+
+User Requirment
+
+Easy to understand and should be simple.
+The built-in functions should be utilized to the maximum extent.
+OpenGL library facilities should be used.
+
+Software Requirements:
+
+Programming Language: C / C++ Using OpenGL
+Operating System: Windows / Linux
+Compiler: C / C++ Compiler (GCC)
+IDE: Code Blocks
+Functional Requirements: GLUT
+
