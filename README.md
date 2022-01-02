@@ -9,3 +9,18 @@ Problem Narration:
 
 The aim of this project is to design a 3D fan using OpenGL, where the speed of rotation of the fan can be controlled by the user. This demo displays the Rotation of the fan which is designed and implemented using the C++ program language and APIs provided by OpenGL. It has been developed to undergo user modifications. The user modification can be specification and movement with several other features. It is our first insight into the vast world of interactive graphics.
 
+Allgorithm
+
+Step 1: Start S
+
+Step 2: Fan running at normal speed
+
+Step 3: press k & hold it fan running in full speed
+
+Step 4: if I stop pressing k then back to normal Speed
+
+Step 5: if i press i then fan rotating slowly
+
+Step 6: press s to stop rotating the fan
+
+Step 7: Quit
